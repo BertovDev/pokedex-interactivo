@@ -1,0 +1,23 @@
+{
+  "name": "Interactive-PokeDex",
+  "version": "1.0.0",
+  "description": "Interactive PokeDex made with JavaScipt and Axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BertovDev/Interactive-PokeDex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BertovDev/Interactive-PokeDex/issues"
+  },
+  "homepage": "https://github.com/BertovDev/Interactive-PokeDex#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
