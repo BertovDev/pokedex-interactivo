@@ -1,7 +1,7 @@
 # Interactive-PokeDex
 Interactive PokeDex made with JavaScipt and Axios
 **************************************************
-##To add :
+#To add :
 * Search Pokemon
 * Add to team funtionality
 Demo : 
