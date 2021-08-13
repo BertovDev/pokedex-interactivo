@@ -1,5 +1,5 @@
 # Interactive-PokeDex
-Interactive PokeDex made with JavaScipt and Axios
+Interactive PokeDex made with PokeApi , Axios , JavaScript
 **************************************************
 # To add :
 * Search Pokemon
