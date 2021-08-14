@@ -5,4 +5,5 @@ Interactive PokeDex made with PokeApi , Axios , JavaScript
 * Search Pokemon
 * Add to team funtionality
 **************************************************
-![alt text](https://i.gyazo.com/bde31f6e0de70c861ae9a4861ca0a161.png)
+![](https://i.gyazo.com/c885bf5b2ca89136f73d8800b3691fa1.mp4)
+![](https://i.gyazo.com/06c6ec956b531811696d1d9405c46a2a.mp4)
